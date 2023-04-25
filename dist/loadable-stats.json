@@ -1,0 +1,155 @@
+{
+  "hash": "c3b78d9d67ef20567fc8",
+  "publicPath": "http://localhost:8080/",
+  "outputPath": "/Users/ashutosh.sharma/Documents/razorpay/loadable-test/dist",
+  "assetsByChunkName": {
+    "main": [
+      "client.bundle.js"
+    ],
+    "components-component2": [
+      "components-component2.client.bundle.js"
+    ],
+    "components-component4": [
+      "components-component4.client.bundle.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "client.bundle.js",
+      "size": 1228295,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [
+        "main"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "main"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "components-component2.client.bundle.js",
+      "size": 2021,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [
+        "components-component2"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "components-component2"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "components-component4.client.bundle.js",
+      "size": 2020,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [
+        "components-component4"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "components-component4"
+      ],
+      "auxiliaryChunks": []
+    }
+  ],
+  "namedChunkGroups": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        {
+          "name": "client.bundle.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {}
+    },
+    "components-component2": {
+      "name": "components-component2",
+      "chunks": [
+        "components-component2"
+      ],
+      "assets": [
+        {
+          "name": "components-component2.client.bundle.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {}
+    },
+    "components-component4": {
+      "name": "components-component4",
+      "chunks": [
+        "components-component4"
+      ],
+      "assets": [
+        {
+          "name": "components-component4.client.bundle.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "main",
+      "files": [
+        "client.bundle.js"
+      ]
+    },
+    {
+      "id": "components-component2",
+      "files": [
+        "components-component2.client.bundle.js"
+      ]
+    },
+    {
+      "id": "components-component4",
+      "files": [
+        "components-component4.client.bundle.js"
+      ]
+    }
+  ]
+}
